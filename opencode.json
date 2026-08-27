@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "references": {
+    "west-workspace": {
+      "path": "..",
+      "description": "West workspace containing the Spotflow manifest repository, upstream Zephyr, and its dependencies.",
+      "hidden": true
+    }
+  }
+}
